@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" package="de.ghse_online" android:versionName="0.0.1" android:versionCode="1">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="@string/app_name" android:icon="@drawable/icon_ghse" android:screenOrientation="portrait" android:theme="@style/MyTheme" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:icon="@drawable/icon_ghse" android:label="GHSE-Online" android:launchMode="singleTop" android:screenOrientation="portrait" android:name="md5f14cf62e101a75b6b4c4cec1f0fc690e.Login">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:icon="@drawable/icon_ghse" android:label="GHSE-Online" android:launchMode="singleTop" android:screenOrientation="portrait" android:name="md5f14cf62e101a75b6b4c4cec1f0fc690e.About" />
+    <activity android:label="Home" android:screenOrientation="portrait" android:name="md5f14cf62e101a75b6b4c4cec1f0fc690e.MainActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="de.ghse_online.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.de.ghse_online" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

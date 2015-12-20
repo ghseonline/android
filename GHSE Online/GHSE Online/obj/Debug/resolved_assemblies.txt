@@ -1,0 +1,13 @@
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\GHSE Online.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\System.Core.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\System.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\Xamarin.Android.Support.Design.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\assemblies\System.ServiceModel.Internals.dll

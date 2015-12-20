@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="GHSE Online.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.LGD8559d076027" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties\AndroidManifest.xml">
+    <Files>
+      <File FileName="Properties\AndroidManifest.xml" Line="6" Column="12" />
+      <File FileName="obj\Debug\android\AndroidManifest.xml" Line="6" Column="83" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

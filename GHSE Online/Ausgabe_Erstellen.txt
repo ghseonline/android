@@ -1,0 +1,71 @@
+﻿1>------ Erstellen gestartet: Projekt: GHSE Online, Konfiguration: Release Any CPU ------
+1>C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\Properties\AndroidManifest.xml : warning XA0101: @(Content) build action is not supported
+1>    Processing: obj\Release\res\layout\fragment1.xml
+1>    Processing: obj\Release\res\layout\fragment2.xml
+1>    Processing: obj\Release\res\layout\login.xml
+1>    Processing: obj\Release\res\layout\logintoolbar.xml
+1>    Processing: obj\Release\res\layout\main.xml
+1>    Processing: obj\Release\res\layout\nav_header.xml
+1>    Processing: obj\Release\res\layout\news.xml
+1>    Processing: obj\Release\res\layout\toolbar.xml
+1>    Processing: obj\Release\res\menu\nav_menu.xml
+1>    Processing: obj\Release\res\values\arrays.xml
+1>    Processing: obj\Release\res\values\colors.xml
+1>    Processing: obj\Release\res\values\dimens.xml
+1>    Processing: obj\Release\res\values\integers.xml
+1>    Processing: obj\Release\res\values\strings.xml
+1>    Processing: obj\Release\res\values\styles.xml
+1>    Processing: obj\Release\res\values-land\dimens.xml
+1>    Processing: obj\Release\res\values-v21\styles.xml
+1>C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\Activities\Login.cs(22,27,22,44): warning CS0618: "ActionBarActivity" ist veraltet: "This class is obsoleted in this android platform"
+1>  GHSE Online -> C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Release\GHSE Online.dll
+1>    Processing: obj\Release\res\layout\fragment1.xml
+1>    Processing: obj\Release\res\layout\fragment2.xml
+1>    Processing: obj\Release\res\layout\login.xml
+1>    Processing: obj\Release\res\layout\logintoolbar.xml
+1>    Processing: obj\Release\res\layout\main.xml
+1>    Processing: obj\Release\res\layout\nav_header.xml
+1>    Processing: obj\Release\res\layout\news.xml
+1>    Processing: obj\Release\res\layout\toolbar.xml
+1>    Processing: obj\Release\res\menu\nav_menu.xml
+1>    Processing: obj\Release\res\values\arrays.xml
+1>    Processing: obj\Release\res\values\colors.xml
+1>    Processing: obj\Release\res\values\dimens.xml
+1>    Processing: obj\Release\res\values\integers.xml
+1>    Processing: obj\Release\res\values\strings.xml
+1>    Processing: obj\Release\res\values\styles.xml
+1>    Processing: obj\Release\res\values-land\dimens.xml
+1>    Processing: obj\Release\res\values-v21\styles.xml
+1>    Processing: obj\Release\res\layout\fragment1.xml
+1>    Processing: obj\Release\res\layout\fragment2.xml
+1>    Processing: obj\Release\res\layout\login.xml
+1>    Processing: obj\Release\res\layout\logintoolbar.xml
+1>    Processing: obj\Release\res\layout\main.xml
+1>    Processing: obj\Release\res\layout\nav_header.xml
+1>    Processing: obj\Release\res\layout\news.xml
+1>    Processing: obj\Release\res\layout\toolbar.xml
+1>    Processing: obj\Release\res\menu\nav_menu.xml
+1>    Processing: obj\Release\res\values\arrays.xml
+1>    Processing: obj\Release\res\values\colors.xml
+1>    Processing: obj\Release\res\values\dimens.xml
+1>    Processing: obj\Release\res\values\integers.xml
+1>    Processing: obj\Release\res\values\strings.xml
+1>    Processing: obj\Release\res\values\styles.xml
+1>    Processing: obj\Release\res\values-land\dimens.xml
+1>    Processing: obj\Release\res\values-v21\styles.xml
+2>Starting deploy LGE LG-D855 ...
+2>Deploying LGE LG-D855 ...
+2>Der Buildvorgang wurde gestartet.
+2>C:\Program Files\Java\jdk1.7.0_79\\bin\keytool.exe -list -alias androiddebugkey -storepass android -keypass android -keystore "C:\Users\Thorben\AppData\Local\Xamarin\Mono for Android\debug.keystore" 
+2>C:\Program Files\Java\jdk1.7.0_79\\bin\jarsigner.exe -keystore "C:\Users\Thorben\AppData\Local\Xamarin\Mono for Android\debug.keystore" -storepass android -keypass android -digestalg SHA1 -sigalg md5withRSA -signedjar bin\Release\\de.ghse_online-Signed-Unaligned.apk "C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Release\android\bin\de.ghse_online.apk" androiddebugkey 
+2>No -tsa or -tsacert is provided and this jar is not timestamped. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2045-11-22) or after any future revocation date.
+2>C:\Users\Thorben\AppData\Local\Android\android-sdk\build-tools\23.0.2\zipalign.exe 4 "C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Release\de.ghse_online-Signed-Unaligned.apk" "bin\Release\\de.ghse_online-Signed.apk" 
+2>Der Buildvorgang wurde erfolgreich ausgeführt.
+2>Deploy successfully on LGE LG-D855
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 übersprungen ==========
+========== Bereitstellen: 1 erfolgreich, 0 fehlerhaft, 0 übersprungen ==========
+Der Buildvorgang wurde gestartet.
+Der Buildvorgang wurde erfolgreich ausgeführt.
+Der Buildvorgang wurde gestartet.
+Der Buildvorgang wurde erfolgreich ausgeführt.
+

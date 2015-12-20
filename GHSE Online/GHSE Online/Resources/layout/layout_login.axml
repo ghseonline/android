@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <include
+        android:id="@+id/toolbar_activity"
+        layout="@layout/toolbar_activity" />
+    <LinearLayout xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/main_content"
+        android:layout_below="@id/toolbar_activity"
+        tools:gridSpec="1|8|#0093eeff|K:#ee8700ff:16,l:72,l:16,r|S:#83ee00ff:16,0,l:16,56,l:16,0,r">
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:src="@drawable/Logo"
+            android:layout_width="fill_parent"
+            android:layout_height="121.0dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/imageView1"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:text="0.0.4a"
+            android:textColor="#000000"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/textView1" />
+        <EditText
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Username"
+            android:textColor="#000000"
+            android:id="@+id/username" />
+        <EditText
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Passwort"
+            android:textColor="#000000"
+            android:id="@+id/password" />
+        <Button
+            android:text="Login"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/btnLogin"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="0.0dp" />
+    </LinearLayout>
+</RelativeLayout>

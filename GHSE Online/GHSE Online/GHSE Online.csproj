@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0393D583-541C-43B7-8693-ABD7B6548E6F}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GHSE_Online</RootNamespace>
+    <AssemblyName>GHSE Online</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <AndroidSupportedAbis>armeabi%3barmeabi-v7a%3bx86</AndroidSupportedAbis>
+    <MandroidI18n />
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidStoreUncompressedFileExtensions>
+    </AndroidStoreUncompressedFileExtensions>
+    <JavaMaximumHeapSize>
+    </JavaMaximumHeapSize>
+    <JavaOptions>
+    </JavaOptions>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Resources\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\Xamarin.Android.Support.Design.22.2.0.0\lib\MonoAndroid403\Xamarin.Android.Support.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\Xamarin.Android.Support.v4.22.2.0.0\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\Xamarin.Android.Support.v7.AppCompat.22.2.0.0\lib\MonoAndroid403\Xamarin.Android.Support.v7.AppCompat.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activities\Class_Crypt.cs" />
+    <Compile Include="Activities\Class_GenerateHash.cs" />
+    <Compile Include="Activities\Activity_About.cs" />
+    <Compile Include="Activities\Activity_Login.cs" />
+    <Compile Include="Activities\Activity_Main.cs" />
+    <Compile Include="Activities\Adapter_Chat.cs" />
+    <Compile Include="Activities\Adapter_News.cs" />
+    <Compile Include="Activities\Class_Unix_Timestamp.cs" />
+    <Compile Include="Activities\Class_Userinfo.cs" />
+    <Compile Include="Fragments\chat.cs" />
+    <Compile Include="Fragments\uploads.cs" />
+    <Compile Include="Fragments\news.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Activities\Activity_Base.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\values-v21\styles.xml" />
+    <AndroidResource Include="Resources\layout\toolbar_drawer.axml" />
+    <AndroidResource Include="Resources\values\dimens.xml" />
+    <AndroidResource Include="Resources\layout\layout_uploads.axml" />
+    <AndroidResource Include="Resources\layout\layout_about.axml" />
+    <AndroidResource Include="Resources\layout\layout_main.axml" />
+    <AndroidResource Include="Resources\layout\nav_header.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\layout_login.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\layout_news.axml" />
+    <AndroidResource Include="Resources\layout\toolbar_activity.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\item_news.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\layout_chat.axml" />
+    <AndroidResource Include="Resources\layout\item_chat.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable-xxxhdpi\boarder.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\AndroidManifest.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <AndroidResource Include="Resources\values\colors.xml" />
+    <AndroidResource Include="Resources\values\integers.xml" />
+    <AndroidResource Include="Resources\values\strings.xml" />
+    <AndroidResource Include="Resources\values\styles.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\values-land\dimens.xml" />
+    <AndroidResource Include="Resources\values\arrays.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_home_1.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_home_1.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_home_1.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_home_1.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_home_2.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_home_2.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_home_2.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_home_2.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\Icon.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\Icon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\Icon.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\Icon.png" />
+    <AndroidResource Include="Resources\menu\nav_menu.xml" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_menu.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_menu.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_menu.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_menu.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_inbox.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_logout.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_meinaccount.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_news.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_upload.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_logout.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_meinaccount.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_news.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_upload.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_inbox.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_logout.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_meinaccount.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_news.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_upload.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\ic_inbox.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_logout.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_meinaccount.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_news.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_upload.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\ic_inbox.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\Logo.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\Icon_GHSE.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup />
+</Project>

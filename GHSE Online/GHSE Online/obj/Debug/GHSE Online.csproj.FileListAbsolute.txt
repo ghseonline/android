@@ -1,0 +1,75 @@
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\GHSE Online.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\GHSE Online.pdb
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\de.ghse_online.apk
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\de.ghse_online-Signed.apk
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\GHSE Online.dll
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\GHSE Online.pdb
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\android\bin\de.ghse_online.apk
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\values-v21\styles.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\values\dimens.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\nav_header.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxxhdpi\boarder.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\values\colors.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\values\integers.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\values\strings.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\values\styles.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\values-land\dimens.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\values\arrays.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\ic_home_1.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\ic_home_1.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\ic_home_1.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\ic_home_1.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\ic_home_2.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\ic_home_2.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\ic_home_2.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\ic_home_2.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\menu\nav_menu.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\ic_menu.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\ic_menu.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\ic_menu.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\ic_inbox.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\ic_logout.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\ic_meinaccount.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\ic_news.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-hdpi\ic_upload.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\ic_logout.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\ic_meinaccount.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\ic_news.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\ic_upload.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-mdpi\ic_inbox.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\ic_logout.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\ic_meinaccount.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\ic_news.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\ic_upload.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xhdpi\ic_inbox.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\ic_logout.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\ic_meinaccount.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\ic_news.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\ic_upload.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxhdpi\ic_inbox.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxxhdpi\logo.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\drawable-xxxhdpi\icon_ghse.png
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\R.cs.flag
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\uploadflags.txt
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\GHSE Online.csprojResolveAssemblyReference.cache
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\toolbar_drawer.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\layout_uploads.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\layout_about.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\layout_main.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\layout_login.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\layout_news.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\toolbar_activity.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\item_news.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\layout_chat.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\res\layout\item_chat.xml
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\obj\Debug\GHSE Online.dll.mdb
+C:\Users\Thorben\documents\visual studio 2015\Projects\GHSE Online\GHSE Online\bin\Debug\GHSE Online.dll.mdb
